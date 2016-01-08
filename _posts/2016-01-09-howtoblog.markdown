@@ -1,14 +1,16 @@
 ---
 layout: post
 title:  "怎么提交blog文章"
-date:   2014-08-19 23:56:45
-description: Just a sample post to show some of the typography elements supported from harmony theme.
+date:   2016-01-09 16:24:45
+description: 介绍如何往本工程提交blog
 categories:
 - blog
 permalink: sample-post
 ---
 
-Just a sample post to show some of the *typography* elements supported from 
+介绍如何提交blog，以及简单的blog格式。例如 加黑加粗。
+详细可以参考  [Sample post from harmony](https://containertribe.github.io/gemini-blog/sample-post)
+有建议和问题可以新增issue.(不保证能解决) [点此新建issue](https://github.com/ContainerTribe/gemini-blog/issues/new)
 **harmony** theme.
 
 ___
