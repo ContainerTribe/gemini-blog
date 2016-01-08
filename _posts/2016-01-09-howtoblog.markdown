@@ -5,7 +5,7 @@ date:   2016-01-09 16:24:45
 description: 介绍如何往本工程提交blog
 categories:
 - blog
-permalink: sample-post
+permalink: howto-write-blog
 ---
 
 介绍如何提交blog，以及简单的blog格式。例如 加黑加粗。
